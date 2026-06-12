@@ -2,9 +2,8 @@
 
 **Product Builder** based in Bangalore 🇮🇳
 
-I tinker. I turn ideas into products people can use — or, honestly, that *I* can use first. Most things start as a "wouldn't it be cool if..." and a scrappy weekend build. Some of them turn into something real.
+I turn ideas into products people can use or, honestly, that I can use first. Most things start as a "wouldn't it be cool if..." and a scrappy weekend build. Some of them turn into something real.
 
-- 🛠️ I build full-stack, end to end — data model to the last pixel
 - 🤖 Lately I'm obsessed with AI products that feel fast and human, not robotic
 - 🌱 I learn by shipping: rough prototype first, polish later
 - 🍴 My side projects usually solve a problem I personally have
