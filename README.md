@@ -8,7 +8,7 @@ I turn ideas into products people can use or, honestly, that I can use first. Mo
 - 🌱 I learn by shipping: rough prototype first, polish later
 - 🍴 My side projects usually solve a problem I personally have
 
-I'm not chasing perfect. I'm chasing *useful* — and I'd rather ship something small that works than plan something big that doesn't.
+I'm not chasing perfect. I'm chasing *useful* and I'd rather ship something small that works than plan something big that doesn't.
 
 ### Let's connect
 
